@@ -9,16 +9,7 @@ const Home =()=>{
             <img src={eevee} />
              <img src={poke} />
             <img src={eevee} />
-             <img src={poke} />
-            <img src={eevee} />
-    <img src={poke} />
-            <img src={eevee} />
-
-             <img src={poke} />
-            <img src={eevee} />
-             <img src={poke} />
-            <img src={eevee} />
-
+        
         </div>
     )
 }
