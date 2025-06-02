@@ -1,0 +1,14 @@
+.Pokegrid{
+ display:grid;
+grid-template-columns: 50px 50px;
+ background-color:rgb(255, 0, 0);
+ width:400px;
+ height:600px;
+ overflow:visible;
+ justify-content: space-between;
+ align-items: center;
+}
+img{
+    width:100px;
+    height:80;
+}

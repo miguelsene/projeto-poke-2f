@@ -1,0 +1,14 @@
+.Pokeflex{
+ display:grid;
+grid-template-columns: 50px 50px;
+ background-color:rgb(16, 198, 253);
+ width:400px;
+ height:300px;
+ overflow:visible;
+ justify-content: space-between;
+ align-items: center;
+}
+img{
+    width:100px;
+    height:80;
+}
